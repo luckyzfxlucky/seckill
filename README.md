@@ -1,12 +1,15 @@
 # seckill
 这是一个有关秒杀的项目
-开发平台：IntelliJ IDEA 2016.1  + MySQL-Front 5.5
-相关技术：1.MyBatis
-          2.Spring&SpringMVC
-          3.MySQL
-          4.Restful
-          5.Bootstrap&jQuery
-用到的知识:1.Mybatis使用与整合Spring技巧
+##开发平台：
+           IntelliJ IDEA 2016.1  + MySQL-Front 5.5
+##相关技术：
+           1.MyBatis
+           2.Spring&SpringMVC
+           3.MySQL
+           4.Restful
+           5.Bootstrap&jQuery
+##用到的知识:
+           1.Mybatis使用与整合Spring技巧
            2.SpringIOC与声明式事务理解
            3.业务接口封装技巧
            4.SpringMVC和Restful理解和运用
