@@ -8,6 +8,7 @@
            3.MySQL
            4.Restful
            5.Bootstrap&jQuery
+           6.redis
 ##用到的知识:
            1.Mybatis使用与整合Spring技巧
            2.SpringIOC与声明式事务理解
